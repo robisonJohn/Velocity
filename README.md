@@ -49,6 +49,6 @@ The purpose of this application is to enable the user to select a crypto asset a
 
 ## Timeframes: 
 ![Timeframe](/images/timeframe.png)
-Total Time Expected: 60 hours
+
 
 
