@@ -12,8 +12,10 @@ The purpose of this application is to enable the user to select a crypto asset a
 
 
 ## Wireframe:
-![Wireframe 1](/images/wireframe-homepage.png)
-![Wireframe 2](/images/wireframe-about-page.png)
+![Wireframe Web Home](/images/wireframe-homepage.png)
+![Wireframe Web About](/images/wireframe-about-page.png)
+![Wireframe Mobile Home](/images/wireframe-mobile-home.png)
+![Wireframe Mobile About](/images/wireframe-mobile-about.png)
 
 ## MVP:
 1. Two HTML pages, one primary page and another about page
