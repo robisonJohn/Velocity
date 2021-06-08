@@ -48,7 +48,7 @@ The purpose of this application is to enable the user to select a crypto asset a
 ![Priority Matrix](/images/priority-matrix.png)
 
 ## Timeframes: 
-![Timeframe](/images/timeframe.png)
+![Timeframe](/images/timeframe-new.png)
 
 
 
