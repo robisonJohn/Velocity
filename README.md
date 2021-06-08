@@ -1,8 +1,8 @@
-# Velocity
-Building mathematical functions and software to visualize and understand market behavior among crypto securities.
+# ValueCoin
+Building mathematical functions and software to visualize and understand market behavior between crypto securities.
 
 ## Problem Statement:
-Presently, there is a great deal of confusion regarding crypto assets. Are they speculative in nature, or do they hold intrinsic utility beyond trading? The goal of this application will be to provide a data portal for individuals to better understand crypto assets. In particular, we can think of the Velocity of Money as being a fundamental indicator of the intrinsic value of a currency. In words, the velocity of money is the productive capacity of money divided by its current monetary supply (i.e. GDP divided by the amount of money presently in circulation). For cryptocurrencies, we can think of this as analogous to the current market capitalization of the crypto currency divided by its total volume in circulation. 
+Presently, there is a great deal of confusion regarding crypto assets. Are they speculative in nature, or do they hold intrinsic utility beyond trading? The goal of this application will be to provide an easy-to-understand data portal for individuals to better understand crypto assets. In particular, we can think of the Velocity of Money as being a fundamental indicator of the intrinsic value of a currency. In words, the velocity of money is the productive capacity of money divided by its current monetary supply (i.e. GDP divided by the amount of money presently in circulation). For cryptocurrencies, we can think of this as analogous to the current market capitalization of the crypto currency divided by its total volume in circulation. 
 ## App Title: Velocity
 ## App description: 
 The purpose of this application is to enable the user to select a crypto asset and return four key metrics: the coin’s current price, its 24-hour price change, its velocity, and its social score. The user will then be able to compare this value with metrics from a different coin side by side.
