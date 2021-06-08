@@ -8,14 +8,12 @@ Presently, there is a great deal of confusion regarding crypto assets. Are they 
 The purpose of this application is to enable the user to select a crypto asset and return four key metrics: the coin’s current price, its 24-hour price change, its velocity, and its social score. The user will then be able to compare this value with metrics from a different coin side by side.
 ## API: LunarCrush API
 ## API Snippet: 
-![Alt Text](url)
-![API Call](/images/API-example)
-
-
+![API Call](/images/API-example.png)
 
 
 ## Wireframe:
-
+![Wireframe 1](/images/wireframe-homepage.png)
+![Wireframe 2](/images/wireframe-about-page.png)
 
 ## MVP:
 1. Two HTML pages, one primary page and another about page
@@ -43,8 +41,10 @@ The purpose of this application is to enable the user to select a crypto asset a
 7. June 13th: CSS Styling + Practice Project Presentation
 8. June 14th: Project Presentation
 ## Priority Matrix:
+![Priority Matrix](/images/priority-matrix.png)
 
 ## Timeframes: 
+![Timeframe](/images/timeframe.png)
 Total Time Expected: 60 hours
 
 
