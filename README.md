@@ -12,8 +12,10 @@ The purpose of this application is to enable the user to select a crypto asset a
 
 
 ## Wireframe:
+### Web Application
 ![Wireframe Web Home](/images/wireframe-homepage.png)
 ![Wireframe Web About](/images/wireframe-about-page.png)
+### Mobile Application
 ![Wireframe Mobile Home](/images/wireframe-mobile-home.png)
 ![Wireframe Mobile About](/images/wireframe-mobile-about.png)
 
